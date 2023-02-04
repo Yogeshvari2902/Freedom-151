@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "name": "Yogeshvari",
+      "age": "18",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Education",
+      "id": 1
+    },
+    {
+      "name": "Yogesh",
+      "age": "25",
+      "gender": "Male",
+      "country": "Usa",
+      "profession": "Education",
+      "id": 2
+    },
+    {
+      "name": "Rajendra",
+      "age": "30",
+      "gender": "Male",
+      "country": "India",
+      "profession": "Education",
+      "id": 3
+    },
+    {
+      "name": "Rosh",
+      "age": "20",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Education",
+      "id": 4
+    },
+    {
+      "name": "Bhanu",
+      "age": "20",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Employed",
+      "id": 5
+    },
+    {
+      "name": "Pinki",
+      "age": "20",
+      "gender": "Female",
+      "country": "Usa",
+      "profession": "Employed",
+      "id": 6
+    },
+    {
+      "name": "Rinku",
+      "age": "30",
+      "gender": "Female",
+      "country": "India",
+      "profession": "Employed",
+      "id": 7
+    },
+    {
+      "name": "Bhavya",
+      "age": "22",
+      "gender": "Male",
+      "country": "Nepal",
+      "profession": "Student",
+      "id": 8
+    },
+    {
+      "name": "Soumya",
+      "age": "26",
+      "gender": "Female",
+      "country": "Nepal",
+      "profession": "Student",
+      "id": 9
+    }
+  ]
+}
